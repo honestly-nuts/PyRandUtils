@@ -4,4 +4,4 @@ fixed 2. cant have commas inside of text
 
 fixed 3. cant have digits inside of text
 
-okay kind of a weird bug but if you give it invalid json with like a missing , or } or something else (except for :) it fixes it
+okay kind of a weird bug but if you give it invalid json with like a missing ',' or '}' (except for ':') it fixes it
